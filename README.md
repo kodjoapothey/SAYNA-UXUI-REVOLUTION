@@ -1,5 +1,5 @@
 # SAYNA-UXUI-REVOLUTION
-projet révolution
+projet révolution: liens phase de découverte et de wireframe
 
 https://www.figma.com/design/3yMnVCYP25tqY33BoeWs6Q/Phase_de_wireframe?node-id=0-1&t=6VeTim2F0re3kYaI-1
 
